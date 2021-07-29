@@ -1,4 +1,4 @@
-name: General Datas
+name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -7,7 +7,7 @@ on:
   
 jobs:
   build:
-    name: Jobs to updates ddatas
+    name: Jobs to updates datas
     runs-on: ubuntu-latest
     steps:
       # Shake Animation
