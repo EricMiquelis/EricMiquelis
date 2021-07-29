@@ -8,3 +8,4 @@
   <img height="151em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ericmiquelis&layout=compact&langs_count=16&theme=merko"/>
 </div>
   
+![Shake animation](https://github.com/ericmiquelis/ericmiquelis/blob/output/github-contribution-grid-snake.svg)
