@@ -22,5 +22,5 @@ jobs:
           target-branch: output
           build_dir: distância
         env:
-          GITHUB_TOKEN: ${{ secreta.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
